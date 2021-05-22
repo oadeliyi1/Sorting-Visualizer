@@ -1,4 +1,15 @@
 body {
   background-color: blueviolet;
-  
+
+}
+.components{
+
+}
+
+.bars {
+  display: flex;
+  float:left;
+  background-color: pink;
+  margin:1px;
+  width: 5px
 }
